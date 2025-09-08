@@ -53,7 +53,7 @@ https://doi.org/10.1128/mra.00594-25)
 
 - <u>Lim, S.J.</u>, **Alexander, L.**, Engel, A.S., Paterson, A.T., Anderson, L.C. & Campbell, B.J. (2019) Extensive thioautotrophic endosymbiont species diversity within a single Ctena orbiculata (Bivalvia:Lucinidae) population. [mSystems, 4:e00280-19](https://doi.org/10.1128/msystems.00280-19) 
 
-- <u>Lim, S.J.</u>, **Davis, B.G.**, +Gill, D.E., +Walton, J., +Nachman, E., Engel, A.S., Anderson, L.C. & Campbell, B.J. (2018) Taxonomic and functional heterogeneity of the gill microbiome in a symbiotic coastal mangrove lucinid species. [ISME J, 13: 902-920](https://www.nature.com/articles/s41396-018-0318-3) 
+- <u>Lim, S.J.</u>, **Davis, B.G.**, **Gill, D.E.**, **Walton, J.**, **Nachman, E.**, Engel, A.S., Anderson, L.C. & Campbell, B.J. (2018) Taxonomic and functional heterogeneity of the gill microbiome in a symbiotic coastal mangrove lucinid species. [ISME J, 13: 902-920](https://www.nature.com/articles/s41396-018-0318-3) 
 
 ### 2009-2012
 - Wee, L.J., <u>Lim, S.J.</u>, Ng, L.F. & Tong, J.C. (2012) Immunoinformatics: how in silico methods are re-shaping the investigation of peptide immune specificity. [Front Biosci (Elite Ed), 4:311-9](https://doi.org/10.2741/e378)
