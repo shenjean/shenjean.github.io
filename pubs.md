@@ -1,5 +1,5 @@
 # The microbial ecology lab - publications
-**Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [Contact](contact.md)**
+**Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md)**
 
 
 ## Book Chapters
@@ -44,9 +44,9 @@ https://doi.org/10.1128/mra.00594-25)
 
 ### 2020
  - <u>Lim, S.J.</u>, Seyfang, A., Dutra, S.V.O., Kane, B. & Groer M. (2020) Gene expression responses to Zika virus infection in peripheral blood mononuclear cells from pregnant and non-pregnant women. [MicrobiologyOpen, 9(12): e1134](https://doi.org/10.1002/mbo3.1134)
-- Oberstaller, J., Gibbons, J., …, <u>Lim, S.J.</u>, …, Jiang, R.H.Y. (2020) OneHealth codeathon of host-microbiome interactions - a novel approach integrating social sciences and data sciences, F1000 Research, 9(1478): 1478
--	Gonzalez-Mercado, V.J., Henderson, W., Sarkar, A., <u>Lim, S.J.</u>, Saligan, L.N, Berk, L.; Dishaw, L., McMillan, S., Groer, M., Sepehri, F. & Melkus, G. (2020) Changes in gut microbiome associated with co-occurring symptoms development during chemo-radiation for rectal cancer: a proof of concept study. Biological Research for Nursing, 23(1):31-41
-- Gonzalez-Mercado, V.J., <u>Lim, S.J.</u>, Berk, L., Esele, M., Rodriguez, C. & Colon-Otero, G. (2020) Gut microbiota differences in island Hispanic Puerto Ricans and mainland non-Hispanic whites during chemo-radiation for rectal cancer: a pilot study. Current Problems in Cancer, 10051
+- Oberstaller, J., Gibbons, J., …, <u>Lim, S.J.</u>, …, Jiang, R.H.Y. (2020) OneHealth codeathon of host-microbiome interactions - a novel approach integrating social sciences and data sciences, [F1000 Research, 9(1478): 1478](https://doi.org/10.12688/f1000research.26459.1)
+-	Gonzalez-Mercado, V.J., Henderson, W., Sarkar, A., <u>Lim, S.J.</u>, Saligan, L.N, Berk, L.; Dishaw, L., McMillan, S., Groer, M., Sepehri, F. & Melkus, G. (2020) Changes in gut microbiome associated with co-occurring symptoms development during chemo-radiation for rectal cancer: a proof of concept study. [Biological Research for Nursing, 23(1):31-41](https://doi.org/10.1177/1099800420942830)
+- Gonzalez-Mercado, V.J., <u>Lim, S.J.</u>, Berk, L., Esele, M., Rodriguez, C. & Colon-Otero, G. (2020) Gut microbiota differences in island Hispanic Puerto Ricans and mainland non-Hispanic whites during chemo-radiation for rectal cancer: a pilot study. [Current Problems in Cancer, 10051](http://dx.doi.org/10.1016/j.currproblcancer.2020.100551)
 
 ### 2018-2019
  - <u>Lim, S.J.</u> & Bordenstein, S.R. (2019) An introduction to phylosymbiosis. [Proceedings of the Royal Society B, 287: 20192900](https://doi.org/10.1098/rspb.2019.2900)
@@ -56,8 +56,8 @@ https://doi.org/10.1128/mra.00594-25)
 - <u>Lim, S.J.</u>, **Davis, B.G.**, +Gill, D.E., +Walton, J., +Nachman, E., Engel, A.S., Anderson, L.C. & Campbell, B.J. (2018) Taxonomic and functional heterogeneity of the gill microbiome in a symbiotic coastal mangrove lucinid species. [ISME J, 13: 902-920](https://www.nature.com/articles/s41396-018-0318-3) 
 
 ### 2009-2012
-- Wee, L.J., Lim, S.J., Ng, L.F. & Tong, J.C. (2012) Immunoinformatics: how in silico methods are re-shaping the investigation of peptide immune specificity. Front Biosci (Elite Ed), 4:311-9
-- <u>Lim, S.J.</u>, Tan, T.W. & Tong, J.C. (2010) Computational epigenetics: the new scientific paradigm. Bioinformation, 4(7): 331 337 
-- Song, C.M., Lim, S.J. & Tong, J.C. (2009) Recent advances in computer-aided drug design. Briefings in Bioinformatics, 10(5): 579 91 
-- Tong, J.C., Lim, S.J., Muh, H.C., Chew, F.T. & Tammi, M.T. (2009) Allergen Atlas: a comprehensive knowledge center and analysis resource for allergen information. Bioinformatics, 25(7): 979 80 
+- Wee, L.J., <u>Lim, S.J.</u>, Ng, L.F. & Tong, J.C. (2012) Immunoinformatics: how in silico methods are re-shaping the investigation of peptide immune specificity. [Front Biosci (Elite Ed), 4:311-9](https://doi.org/10.2741/e378)
+- <u>Lim, S.J.</u>, Tan, T.W. & Tong, J.C. (2010) Computational epigenetics: the new scientific paradigm. [Bioinformation, 4(7): 331 337](https://doi.org/10.6026/97320630004331) 
+- Song, C.M., <u>Lim, S.J.</u> & Tong, J.C. (2009) Recent advances in computer-aided drug design. [Briefings in Bioinformatics, 10(5): 579 91](https://doi.org/10.1093/bib/bbp023) 
+- Tong, J.C., <u>Lim, S.J.</u> Muh, H.C., Chew, F.T. & Tammi, M.T. (2009) Allergen Atlas: a comprehensive knowledge center and analysis resource for allergen information. [Bioinformatics, 25(7): 979 80](https://doi.org/10.1093/bioinformatics/btp077) 
 
