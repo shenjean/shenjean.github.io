@@ -1,7 +1,7 @@
 # The microbial ecology lab - About me 
 **Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [Contact](contact.md)**
 
- <img src=https://github.com/shenjean/shenjean.github.io/blob/main/Pics/Jean_Indoor.jpg width="30%" height="30%">
+ <img src=Pics/Jean_Indoor.jpg width="30%" height="30%">
  
 ## Education
 
