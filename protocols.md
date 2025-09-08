@@ -1,4 +1,4 @@
-# The microbial ecology lab - News
+# The microbial ecology lab - Protocols
 **Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ### Lab protocols
