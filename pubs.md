@@ -40,20 +40,20 @@ https://doi.org/10.1128/mra.00594-25)
  - <u>Lim, S.J.</u>, **Davis, B.G.**, **Gill, D.E.**, Swetenburg, J., Anderson, L.C., Engel, A.S. & Campbell, B.J. (2021) Gill microbiome structure and function in the chemosymbiotic coastal lucinid <i>Stewartia floridana</i>, [FEMS Microbiology Ecology, 97(4): fiab042](https://doi.org/10.1093/femsec/fiab042)
 - <u>Lim, S.J.</u>, & Thompson, L.R. (2021) Mitohelper: A mitochondrial reference sequence analysis tool for fish eDNA studies, [Environmental DNA, 3: 706-715](https://doi.org/10.1002/edn3.187)
 - <u>Lim, S.J.</u>, Aguilar-Lopez, M., Wetzel, C., Dutra, S.V.O, Bray, V., Groer, M.W., Donovan, S.M. & Ho, T. (2021) The effects of genetic relatedness on the preterm infant gut microbiota, [Microorganisms, 9(2):278](https://doi.org/10.3390/microorganisms9020278)
-- Gonzalez-Mercado, V.J., <u>Lim, S.J.</u>, Marrero, S.J., Pedro, E. & Saligan, L.N. (2021) Gut microbiota and fatigue in rectal cancer patients: a cross-sectional pilot study, [Supportive Care in Cancer, 29:4615-4621] (https://link.springer.com/article/10.1007/s00520-021-06013-2)
+- Gonzalez-Mercado, V.J., <u>Lim, S.J.</u>, Marrero, S.J., Pedro, E. & Saligan, L.N. (2021) Gut microbiota and fatigue in rectal cancer patients: a cross-sectional pilot study, [Supportive Care in Cancer, 29:4615-4621](https://link.springer.com/article/10.1007/s00520-021-06013-2)
 
 ### 2020
- - <u>Lim, S.J.</u>, Seyfang, A., Dutra, S.V.O., Kane, B. & Groer M. (2020) Gene expression responses to Zika virus infection in peripheral blood mononuclear cells from pregnant and non-pregnant women. MicrobiologyOpen, 9(12): e1134
+ - <u>Lim, S.J.</u>, Seyfang, A., Dutra, S.V.O., Kane, B. & Groer M. (2020) Gene expression responses to Zika virus infection in peripheral blood mononuclear cells from pregnant and non-pregnant women. [MicrobiologyOpen, 9(12): e1134](https://doi.org/10.1002/mbo3.1134)
 - Oberstaller, J., Gibbons, J., …, <u>Lim, S.J.</u>, …, Jiang, R.H.Y. (2020) OneHealth codeathon of host-microbiome interactions - a novel approach integrating social sciences and data sciences, F1000 Research, 9(1478): 1478
 -	Gonzalez-Mercado, V.J., Henderson, W., Sarkar, A., <u>Lim, S.J.</u>, Saligan, L.N, Berk, L.; Dishaw, L., McMillan, S., Groer, M., Sepehri, F. & Melkus, G. (2020) Changes in gut microbiome associated with co-occurring symptoms development during chemo-radiation for rectal cancer: a proof of concept study. Biological Research for Nursing, 23(1):31-41
 - Gonzalez-Mercado, V.J., <u>Lim, S.J.</u>, Berk, L., Esele, M., Rodriguez, C. & Colon-Otero, G. (2020) Gut microbiota differences in island Hispanic Puerto Ricans and mainland non-Hispanic whites during chemo-radiation for rectal cancer: a pilot study. Current Problems in Cancer, 10051
 
 ### 2018-2019
- - <u>Lim, S.J.</u> & Bordenstein, S.R. (2019) An introduction to phylosymbiosis. Proceedings of the Royal Society B, 287: 20192900
+ - <u>Lim, S.J.</u> & Bordenstein, S.R. (2019) An introduction to phylosymbiosis. [Proceedings of the Royal Society B, 287: 20192900](https://doi.org/10.1098/rspb.2019.2900)
 
-- <u>Lim, S.J.</u>, +Alexander, L., Engel, A.S., Paterson, A.T., Anderson, L.C. & Campbell, B.J. (2019) Extensive thioautotrophic endosymbiont species diversity within a single Ctena orbiculata (Bivalvia:Lucinidae) population. mSystems, 4:e00280-19 
+- <u>Lim, S.J.</u>, **Alexander, L.**, Engel, A.S., Paterson, A.T., Anderson, L.C. & Campbell, B.J. (2019) Extensive thioautotrophic endosymbiont species diversity within a single Ctena orbiculata (Bivalvia:Lucinidae) population. [mSystems, 4:e00280-19](https://doi.org/10.1128/msystems.00280-19) 
 
-- <u>Lim, S.J.</u>, +Davis, B.G., +Gill, D.E., +Walton, J., +Nachman, E., Engel, A.S., Anderson, L.C. & Campbell, B.J. (2018) Taxonomic and functional heterogeneity of the gill microbiome in a symbiotic coastal mangrove lucinid species. ISME J, 13: 902-920 
+- <u>Lim, S.J.</u>, **Davis, B.G.**, +Gill, D.E., +Walton, J., +Nachman, E., Engel, A.S., Anderson, L.C. & Campbell, B.J. (2018) Taxonomic and functional heterogeneity of the gill microbiome in a symbiotic coastal mangrove lucinid species. [ISME J, 13: 902-920](https://www.nature.com/articles/s41396-018-0318-3) 
 
 ### 2009-2012
 - Wee, L.J., Lim, S.J., Ng, L.F. & Tong, J.C. (2012) Immunoinformatics: how in silico methods are re-shaping the investigation of peptide immune specificity. Front Biosci (Elite Ed), 4:311-9
