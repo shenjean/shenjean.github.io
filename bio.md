@@ -1,8 +1,8 @@
 # The microbial ecology lab - About me 
 **Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [Contact](contact.md)**
 
- <img src=Pics/Jean_Indoor.jpg width="30%" height="30%">
- 
+![Shen Jean Lim](Pics/Jean_Indoor.jpg)
+
 ## Education
 
 - 2018	Ph.D in Microbiology,	Clemson University ([Dissertation](https://open.clemson.edu/all_dissertations/2566/))
