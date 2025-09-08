@@ -10,7 +10,7 @@
 **2024**: Investigating the geographic distribution of a seagrass virus [(Read article)](https://www.usf.edu/marine-science/news/2024/investigating-the-geographic-distribution-of-a-seagrass-virus.aspx)
 
 **2022**: Ice Worm Publication Selected as a Spotlight Paper [(Read article)](https://www.aoml.noaa.gov/ice-worm-publication-selected-as-a-spotlight-paper/) 
-> View the presentation in NOAA ‘Omics Seminar Series (October 19, 2022): Metagenomic discovery of a marine polychaete
+> View the presentation in NOAA ‘Omics Seminar Series (October 19, 2022): 
 [![NOAA 'Omics Seminar](http://img.youtube.com/vi/N1eFQPc3PNA/0.jpg)](http://www.youtube.com/watch?v=N1eFQPc3PNA "Metagenomic discovery of a marine polychaete")
 
 **2019**: Microbe diversity is key to healthy coastal ecosystems [(Read article)](https://www.nsf.gov/news/microbe-diversity-key-healthy-coastal-ecosystems)
