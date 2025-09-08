@@ -25,6 +25,7 @@ https://doi.org/10.1128/mra.00594-25)
 ### 2024
 - <u>Lim, S.J.</u>, Rosario, K., Kernbach, M.E., Gross, A.J., Furman, Bradley T. & Breitbart, M. (2024) Limited potexvirus diversity in eastern Gulf of Mexico seagrass meadows, [Journal of General Virology, 105(6): 002004](https://doi.org/10.1099/jgv.0.002004). 
 - Charon, J., Olendraite, I., …, <u>Lim, S.J.</u>, …, Neri, U. (2024) Consensus statement from the first RdRp Summit: advancing RNA virus discovery at scale across communities, [Frontiers in Virology, 4 - 2024](https://doi.org/10.3389/fviro.2024.1371958)
+  
 ### 2023
 - **Park, H.**, <u>Lim, S.J.</u>, Cosme, J., O'Connell, K., Sandeep, J., Gayanilo, F., Cutter, G.R., Montes, E., Nitikitpaiboon, C., Fisher, S., Moustahfid, H, & Thompson, L.R. (2023) Investigation of machine learning algorithms for taxonomic classification of marine metagenomes, [Microbiology spectrum, 11:e05237-22](https://doi.org/10.1128/spectrum.05237-22) 
 - Gonzalez-Mercado, V.J., <u>Lim, S.J.</u> & Aouizerat, B. (2023) Insights from bacterial 16S rRNA gene into bacterial genera and predicted metabolic pathways associated with stool consistency in rectal cancer patients: a proof of concept, [Biological Research for Nursing, 25(3):491-500](https://doi.org/10.1177/10998004231159623)
