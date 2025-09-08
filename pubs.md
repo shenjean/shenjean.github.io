@@ -1,5 +1,5 @@
 # The microbial ecology lab - Publications
-**Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md)**
+**Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 
 ## Book Chapters
