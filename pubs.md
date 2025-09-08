@@ -7,16 +7,18 @@ Mentee(s) highlighted in **bold**
 - <u>Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Reference Module in Life Sciences, Elsevier](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
 - <u>Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Reference Module in Life Sciences, Elsevier](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
 - <u>Lim, S.J.</u>, Khan, A.M., De Silva, M., Lim, K.S., Hu, Y., Tan, C.H. & Tan, T.W. (2011) Integration of e-learning tools with the problem-based learning approach to enhance teaching and learning in undergraduate bioinformatics modules. In Technology in Higher Education: The State of the Art [E-Publication Volume], p.63-79.
-- <u> Tong, J.C. & Lim, S.J. </u> (2010) Computational epigenetics. In [Encyclopedia of Molecular Cell Biology and Molecular Medicine, 3rd ed., Meyers, Bob. Wiley.](https://doi.org/10.1002/3527600906.mcb.201100012)
+- Tong, J.C. & <u>Lim, S.J.</u> (2010) Computational epigenetics. In [Encyclopedia of Molecular Cell Biology and Molecular Medicine, 3rd ed., Meyers, Bob. Wiley.](https://doi.org/10.1002/3527600906.mcb.201100012)
 
 ## Refereed Journal Articles
 Mentee(s) highlighted in **bold**
 
 ### 2025
-- Young, M., Natarajan, O., <u>Lim, S.J.</u>, Dishaw L.J. <u>Pseudovibrio ascidiaceicola</u> 5337, a marine bacterial symbiont of the ascidian gut with unusual genome features. [Microbiol. Resour. Announc. 0:e00594-25](
+- Young, M., Natarajan, O., <u>Lim, S.J.</u>, Dishaw L.J. *Pseudovibrio ascidiaceicola* 5337, a marine bacterial symbiont of the ascidian gut with unusual genome features. [Microbiol. Resour. Announc. 0:e00594-25](
 https://doi.org/10.1128/mra.00594-25)
 - Giani, N.M., <u>Lim, S.J.</u>, Anderson, L.C., Paterson, A.T., Engel, A.S., Campbell, B.J. (2025) Variation in accessory and horizontal gene transfer-associated genes drives lucinid endosymbiont diversity, [FEMS Microbiology Ecology 101(8):fiaf074](https://doi.org/10.1093/femsec/fiaf074)
 - <u>Lim, S.J.</u>, **Rogers, A.**, Rosario, K., Kerr, M., Garrett, M., Koester, J., Hubbard, K.A., Breitbart, M. (2025) Diverse ssRNA viruses associated with <i>Karenia brevis</i> harmful algal blooms in Southwest Florida, [mSphere 10:e01090-24](https://doi.org/10.1128/msphere.01090-24)
+  > This article is included in ASM's Sustainable Development Goals (SDG) Spotlight collection
+[![SDG Spotlight](Pics/SDG.png)](https://journals.asm.org/asm-sdg-spotlight-collection)
 -	Anderson, L.C., Campbell, B., Long-Fox, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2025) The genome sequence of the woven lucine, <i>Lucinisca nassula</i> (Conrad, 1846), [Wellcome Open Res., 10:225](https://wellcomeopenresearch.org/articles/10-225)
 - Natarajan, O., Gibboney, S.L., Young, M.N., <u>Lim, S.J.</u>, Nguyen, F., Pluta, N., Atkinson, C.G.F., Liberti, A., Kees, E.D., Leigh, B.A., Breitbart, M., Gralnick, J.A. & Dishaw, L.J. (2025) Prophages regulation of <i>Shewanella fidelis</i> 3313 motility and biofilm formation: implications for gut colonization dynamics in <i>Ciona robusta</i>, [eLife, 14:RP103107](https://doi.org/10.7554/eLife.103107.2)
 
