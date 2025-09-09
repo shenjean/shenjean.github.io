@@ -2,7 +2,7 @@
 **Shen Jean Lim | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 
-## :books: Book Chapters
+## 📚 Book Chapters
 Mentee(s) highlighted in **bold**
 - <u>Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Reference Module in Life Sciences, Elsevier](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
 - <u>Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Reference Module in Life Sciences, Elsevier](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
