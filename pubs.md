@@ -43,7 +43,7 @@ https://doi.org/10.1128/mra.00594-25)
 - Ahmed, M.A., <u>Lim, S.J.</u> & Campbell, B.J. (2021) Metagenomes, metatranscriptomes and metagenome-assembled genomes (MAGs) from Chesapeake and Delaware Bay (USA) water samples, [Microbiology Resource Announcements, 10(21): e0026221](https://doi.org/10.1128/mra.00262-21)
  - <u>Lim, S.J.</u>, **Davis, B.G.**, **Gill, D.E.**, Swetenburg, J., Anderson, L.C., Engel, A.S. & Campbell, B.J. (2021) Gill microbiome structure and function in the chemosymbiotic coastal lucinid <i>Stewartia floridana</i>, [FEMS Microbiology Ecology, 97(4): fiab042](https://doi.org/10.1093/femsec/fiab042)
 - <u>Lim, S.J.</u>, & Thompson, L.R. (2021) Mitohelper: A mitochondrial reference sequence analysis tool for fish eDNA studies, [Environmental DNA, 3: 706-715](https://doi.org/10.1002/edn3.187)
-  > GitHub repository: https://github.com/aomlomics/mitohelper | 
+  > GitHub repository: [https://github.com/aomlomics/mitohelper](https://github.com/aomlomics/mitohelper) | 
   > Datasets: ![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.15028392.svg)
 - <u>Lim, S.J.</u>, Aguilar-Lopez, M., Wetzel, C., Dutra, S.V.O, Bray, V., Groer, M.W., Donovan, S.M. & Ho, T. (2021) The effects of genetic relatedness on the preterm infant gut microbiota, [Microorganisms, 9(2):278](https://doi.org/10.3390/microorganisms9020278)
 - Gonzalez-Mercado, V.J., <u>Lim, S.J.</u>, Marrero, S.J., Pedro, E. & Saligan, L.N. (2021) Gut microbiota and fatigue in rectal cancer patients: a cross-sectional pilot study, [Supportive Care in Cancer, 29:4615-4621](https://link.springer.com/article/10.1007/s00520-021-06013-2)
