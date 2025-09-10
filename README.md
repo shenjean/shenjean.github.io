@@ -1,5 +1,5 @@
 # The microbial ecology lab
-**Shen Jean Lim | [Home](shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md) | [Protocols](protocols.md)**
+**Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ![Lab Pictures](Pics/LabPics.jpg)
 > I am recruiting a PhD student for Fall 2026 (application deadline: Dec 2025). Please [contact me](contact.md) if you are interested!
