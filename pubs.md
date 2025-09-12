@@ -4,8 +4,8 @@
 
 ## 📚 Book Chapters
 Mentee(s) highlighted in **bold**
-- <u>Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Reference Module in Life Sciences, Elsevier](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
-- <u>Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Reference Module in Life Sciences, Elsevier](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
+- <u>Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 240-252](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
+- <u>Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 531-543](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
 - <u>Lim, S.J.</u>, Khan, A.M., De Silva, M., Lim, K.S., Hu, Y., Tan, C.H. & Tan, T.W. (2011) Integration of e-learning tools with the problem-based learning approach to enhance teaching and learning in undergraduate bioinformatics modules. In Technology in Higher Education: The State of the Art [E-Publication Volume], p.63-79.
 - Tong, J.C. & <u>Lim, S.J.</u> (2010) Computational epigenetics. In [Encyclopedia of Molecular Cell Biology and Molecular Medicine, 3rd ed., Meyers, Bob. Wiley.](https://doi.org/10.1002/3527600906.mcb.201100012)
 
