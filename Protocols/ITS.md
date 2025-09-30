@@ -46,6 +46,6 @@ If yields are low, PCR reactions can be performed in duplicates or triplicates, 
 - The gel will be stained with ethidium bromide or [SYBR Safe](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html)
 - DNA samples that did not produce visible PCR products will be re-amplified using the original, undiluted DNA, using more template DNA, or increasing the number of cycles (max 42 cycles)
 - PCR products will be purified using the [Zymo Research Clean & Concentrator kits](https://www.zymoresearch.com/collections/dcc-pcr-purification-kits)
-- Purified PCR products will be quantified using the [Qubit DNA HS assay](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit.html))
+- Purified PCR products will be quantified using the [Qubit DNA HS assay](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit.html)
 - Purifiied PCR products will be diluted to 1-10 ng/uL, arranged in 96-well plate(s) and submitted, along with annotated gel images, for amplicon sequencing by [MSU RTSF](https://rtsf.natsci.msu.edu) on the Illumina MiSeq 2x250 bp platform. 
 
