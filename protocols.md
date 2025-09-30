@@ -5,6 +5,9 @@
 
 #### Making media and buffers
 - SB buffer for gel electrophoresis
+
+#### DNA/RNA extraction
+- [Extraction of high molecular weight DNA from bacterial cultures](https://github.com/shenjean/shenjean.github.io/blob/main/Protocols/HighMW.md)
   
 #### PCR
 - Colony PCR/16S Full-length 27F/1492R 
