@@ -1,6 +1,6 @@
+# The microbial ecology lab - PCR Protocols 
 **Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](../bio.md) | [Publications](../pubs.md) | [News](../news.md) | [Lab Manual](../lab.md) | [Contact](../contact.md) | [Protocols](../protocols.md)**
 
-# Protocol - PCR Protocol 
 ## Metabarcoding of the fungal internal transcribed spacer (ITS) region
 
 - The fungal/microeukaryotic ITS region will be amplified with ITS3F/4R primers with Fluidigm tags attached to the 5’ end. 
