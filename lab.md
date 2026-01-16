@@ -1,3 +1,4 @@
+# The microbial ecology lab - Lab manual
 **Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ## Vision & Mission
