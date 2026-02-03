@@ -12,6 +12,10 @@ Mentee(s) highlighted in **bold**
 ## 📰 Refereed Journal Articles
 Mentee(s) highlighted in **bold**
 
+### 2026
+- <u>Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
+[Journal of Eukaryotic Microbiology 73(2): e70065](https://doi.org/10.1111/jeu.70065)
+ 
 ### 2025
 - <u>Lim, S.J.</u>, Natarajan O., **Keller J.**, Dishaw, L.J., Furman, B.T., Breitbart, M. (2025) Draft genome sequence of <i>Gracilimonas</i> sp. strain BCB1 isolated from the gill tissue of the lucinid bivalve <i>Stewartia floridana</i> in Pinellas County, Florida, USA. [Microbiol. Resour. Announc. 0:e00595-25](https://doi.org/10.1128/mra.00595-25)
 - Couradeau E., Martiny J.B.H, ... <u>the Microbiomes for One Health Initiative</u> (2025) Incorporating microbiomes into the One Health Joint Plan of Action. [mBio 0:e01456-25](https://doi.org/10.1128/mbio.01456-25)
