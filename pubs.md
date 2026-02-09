@@ -3,40 +3,41 @@
 
 
 ## 📚 Book Chapters
-Mentee(s) highlighted in **bold**
-- <u>Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 240-252](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
-- <u>Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 531-543](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
+Mentee(s) highlighted in **bold** (* - corresponding author)
+    
+- <u>*Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 240-252](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
+- <u>*Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 531-543](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
 - <u>Lim, S.J.</u>, Khan, A.M., De Silva, M., Lim, K.S., Hu, Y., Tan, C.H. & Tan, T.W. (2011) Integration of e-learning tools with the problem-based learning approach to enhance teaching and learning in undergraduate bioinformatics modules. In Technology in Higher Education: The State of the Art [E-Publication Volume], p.63-79.
 - Tong, J.C. & <u>Lim, S.J.</u> (2010) Computational epigenetics. In [Encyclopedia of Molecular Cell Biology and Molecular Medicine, 3rd ed., Meyers, Bob. Wiley.](https://doi.org/10.1002/3527600906.mcb.201100012)
 
 ## 📰 Refereed Journal Articles
-Mentee(s) highlighted in **bold**
+Mentee(s) highlighted in **bold** Mentee(s) highlighted in **bold** (* - corresponding author)
 
 ### 2026
-- <u>Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
+- <u>*Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
 [Journal of Eukaryotic Microbiology 73(2): e70065](https://doi.org/10.1111/jeu.70065)
  
 ### 2025
-- <u>Lim, S.J.</u>, Natarajan O., **Keller J.**, Dishaw, L.J., Furman, B.T., Breitbart, M. (2025) Draft genome sequence of <i>Gracilimonas</i> sp. strain BCB1 isolated from the gill tissue of the lucinid bivalve <i>Stewartia floridana</i> in Pinellas County, Florida, USA. [Microbiol. Resour. Announc. 0:e00595-25](https://doi.org/10.1128/mra.00595-25)
+- <u>*Lim, S.J.</u>, Natarajan O., **Keller J.**, Dishaw, L.J., Furman, B.T., Breitbart, M. (2025) Draft genome sequence of <i>Gracilimonas</i> sp. strain BCB1 isolated from the gill tissue of the lucinid bivalve <i>Stewartia floridana</i> in Pinellas County, Florida, USA. [Microbiol. Resour. Announc. 0:e00595-25](https://doi.org/10.1128/mra.00595-25)
 - Couradeau E., Martiny J.B.H, ... <u>the Microbiomes for One Health Initiative</u> (2025) Incorporating microbiomes into the One Health Joint Plan of Action. [mBio 0:e01456-25](https://doi.org/10.1128/mbio.01456-25)
 - **Young, M.**, Natarajan, O., <u>Lim, S.J.</u>, Dishaw L.J. (2025) *Pseudovibrio ascidiaceicola* 5337, a marine bacterial symbiont of the ascidian gut with unusual genome features. [Microbiol. Resour. Announc. 0:e00594-25](
 https://doi.org/10.1128/mra.00594-25)
 - Giani, N.M., <u>Lim, S.J.</u>, Anderson, L.C., Paterson, A.T., Engel, A.S., Campbell, B.J. (2025) Variation in accessory and horizontal gene transfer-associated genes drives lucinid endosymbiont diversity, [FEMS Microbiology Ecology 101(8):fiaf074](https://doi.org/10.1093/femsec/fiaf074)
-- <u>Lim, S.J.</u>, **Rogers, A.**, Rosario, K., Kerr, M., Garrett, M., Koester, J., Hubbard, K.A., Breitbart, M. (2025) Diverse ssRNA viruses associated with <i>Karenia brevis</i> harmful algal blooms in Southwest Florida, [mSphere 10:e01090-24](https://doi.org/10.1128/msphere.01090-24)
+- <u>*Lim, S.J.</u>, **Rogers, A.**, Rosario, K., Kerr, M., Garrett, M., Koester, J., Hubbard, K.A., Breitbart, M. (2025) Diverse ssRNA viruses associated with <i>Karenia brevis</i> harmful algal blooms in Southwest Florida, [mSphere 10:e01090-24](https://doi.org/10.1128/msphere.01090-24)
   > This article is included in ASM's Sustainable Development Goals (SDG) Spotlight collection
 [![SDG Spotlight](Pics/SDG.png)](https://journals.asm.org/asm-sdg-spotlight-collection)
 -	Anderson, L.C., Campbell, B., Long-Fox, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2025) The genome sequence of the woven lucine, <i>Lucinisca nassula</i> (Conrad, 1846), [Wellcome Open Res., 10:225](https://wellcomeopenresearch.org/articles/10-225)
 - Natarajan, O., Gibboney, S.L., Young, M.N., <u>Lim, S.J.</u>, Nguyen, F., Pluta, N., Atkinson, C.G.F., Liberti, A., Kees, E.D., Leigh, B.A., Breitbart, M., Gralnick, J.A. & Dishaw, L.J. (2025) Prophages regulation of <i>Shewanella fidelis</i> 3313 motility and biofilm formation: implications for gut colonization dynamics in <i>Ciona robusta</i>, [eLife, 14:RP103107](https://doi.org/10.7554/eLife.103107.2)
 
 ### 2024
-- <u>Lim, S.J.</u>, Rosario, K., Kernbach, M.E., Gross, A.J., Furman, Bradley T. & Breitbart, M. (2024) Limited potexvirus diversity in eastern Gulf of Mexico seagrass meadows, [Journal of General Virology, 105(6): 002004](https://doi.org/10.1099/jgv.0.002004). 
+- <u>*Lim, S.J.</u>, Rosario, K., Kernbach, M.E., Gross, A.J., Furman, Bradley T. & Breitbart, M. (2024) Limited potexvirus diversity in eastern Gulf of Mexico seagrass meadows, [Journal of General Virology, 105(6): 002004](https://doi.org/10.1099/jgv.0.002004). 
 - Charon, J., Olendraite, I., …, <u>Lim, S.J.</u>, …, Neri, U. (2024) Consensus statement from the first RdRp Summit: advancing RNA virus discovery at scale across communities, [Frontiers in Virology, 4 - 2024](https://doi.org/10.3389/fviro.2024.1371958)
   
 ### 2023
 - **Park, H.**, <u>Lim, S.J.</u>, Cosme, J., O'Connell, K., Sandeep, J., Gayanilo, F., Cutter, G.R., Montes, E., Nitikitpaiboon, C., Fisher, S., Moustahfid, H, & Thompson, L.R. (2023) Investigation of machine learning algorithms for taxonomic classification of marine metagenomes, [Microbiology spectrum, 11:e05237-22](https://doi.org/10.1128/spectrum.05237-22) 
 - Gonzalez-Mercado, V.J., <u>Lim, S.J.</u> & Aouizerat, B. (2023) Insights from bacterial 16S rRNA gene into bacterial genera and predicted metabolic pathways associated with stool consistency in rectal cancer patients: a proof of concept, [Biological Research for Nursing, 25(3):491-500](https://doi.org/10.1177/10998004231159623)
 - <u>Lim, S.J.</u>, Jithpratuck, W., Wasylik, K., Sriaroon, P. & Dishaw, L.J. (2023) Associations of microbial diversity with age and other clinical variables among pediatric chronic rhinosinusitis (CRS) patients, [Microorganisms, 11(2), 422](https://doi.org/10.3390/microorganisms11020422)
-- <u>Lim, S.J.</u>, Thompson, L.R. & Goodwin, K.D. (2023) Genetic features of the marine polychaete <i>Sirsoe methanicola</i> from metagenomic data, [Frontiers in Marine Science, 9:1067482](https://doi.org/10.3389/fmars.2022.1067482) 
+- <u>*Lim, S.J.</u>, Thompson, L.R. & Goodwin, K.D. (2023) Genetic features of the marine polychaete <i>Sirsoe methanicola</i> from metagenomic data, [Frontiers in Marine Science, 9:1067482](https://doi.org/10.3389/fmars.2022.1067482) 
 - <u>Lim, S.J.</u>, Thompson, L.R., Young, C.M., Gaasterland & Goodwin, K.D. (2022) Dominance of <i>Sulfurospirillum</i> in metagenomes associated with the methane ice worm (<i>Sirsoe methanicola</i>), [Applied and Environmental Microbiology, 88(15): e0029022](https://doi.org/10.1128/aem.00290-22) (spotlight selection)
 
 ### 2022
