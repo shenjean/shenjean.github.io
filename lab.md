@@ -1,4 +1,4 @@
-# The microbial ecology lab - Lab manual
+# Landscape of Interacting Microbes - LIM lab - lab manual
 **Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ## Vision & Mission
@@ -20,7 +20,7 @@
 🤝 Teamwork makes the dream work
 
 ## Code of Conduct
-> These are inspiared and modified from the [Breitbart's Lab Mission & Code of Conduct](https://www.marine.usf.edu/genomics/lab-mission-code-of-conduct/) and [MICO Lab @ USF's Lab Manual](http://www.micolab-usf.com/Manual.html)
+> These are inspired and modified from the [Breitbart's Lab Mission & Code of Conduct](https://www.marine.usf.edu/genomics/lab-mission-code-of-conduct/) and [MICO Lab @ USF's Lab Manual](http://www.micolab-usf.com/Manual.html)
 
 🧪 **Safety is paramount.** Follow all lab and field safety protocols and maintain updated training. If you are unsure of safety protocols, e.g. where to store chemicals/reagents, how to dispose of waste, please ask. Also, if you see something, say something.
 
