@@ -1,4 +1,4 @@
-# Landscape of Interacting Microbes - LIM lab - Protocols
+# Landscape of Interacting Microbes - Protocols
 **LIM lab | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ### Lab protocols
