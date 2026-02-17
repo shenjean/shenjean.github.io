@@ -1,4 +1,4 @@
-# The microbial ecology lab - Publications
+# Landscape of Interacting Microbes - LIM lab
 **Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 
@@ -16,6 +16,7 @@ Mentee(s) highlighted in **bold** Mentee(s) highlighted in **bold** (* - corresp
 ### 2026
 - <u>*Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
 [Journal of Eukaryotic Microbiology 73(2): e70065](https://doi.org/10.1111/jeu.70065)
+- Chin, D., Campbell, B., Petersen, J., <u>*Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2026) The chromosomal genome sequence of the buttercup lucine, <i>Anodontia alba</i> Link, 1807 (Lucinida: Lucinidae) and its associated microbial metagenome sequences. [Wellcome Open Research, 11:131](https://wellcomeopenresearch.org/articles/11-131)
  
 ### 2025
 - <u>*Lim, S.J.</u>, Natarajan O., **Keller J.**, Dishaw, L.J., Furman, B.T., Breitbart, M. (2025) Draft genome sequence of <i>Gracilimonas</i> sp. strain BCB1 isolated from the gill tissue of the lucinid bivalve <i>Stewartia floridana</i> in Pinellas County, Florida, USA. [Microbiol. Resour. Announc. 0:e00595-25](https://doi.org/10.1128/mra.00595-25)
@@ -26,7 +27,7 @@ https://doi.org/10.1128/mra.00594-25)
 - <u>*Lim, S.J.</u>, **Rogers, A.**, Rosario, K., Kerr, M., Garrett, M., Koester, J., Hubbard, K.A., Breitbart, M. (2025) Diverse ssRNA viruses associated with <i>Karenia brevis</i> harmful algal blooms in Southwest Florida, [mSphere 10:e01090-24](https://doi.org/10.1128/msphere.01090-24)
   > This article is included in ASM's Sustainable Development Goals (SDG) Spotlight collection
 [![SDG Spotlight](Pics/SDG.png)](https://journals.asm.org/asm-sdg-spotlight-collection)
--	Anderson, L.C., Campbell, B., Long-Fox, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2025) The genome sequence of the woven lucine, <i>Lucinisca nassula</i> (Conrad, 1846), [Wellcome Open Res., 10:225](https://wellcomeopenresearch.org/articles/10-225)
+-	Anderson, L.C., Campbell, B., Long-Fox, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2025) The genome sequence of the woven lucine, <i>Lucinisca nassula</i> (Conrad, 1846), [Wellcome Open Research, 10:225](https://wellcomeopenresearch.org/articles/10-225)
 - Natarajan, O., Gibboney, S.L., Young, M.N., <u>Lim, S.J.</u>, Nguyen, F., Pluta, N., Atkinson, C.G.F., Liberti, A., Kees, E.D., Leigh, B.A., Breitbart, M., Gralnick, J.A. & Dishaw, L.J. (2025) Prophages regulation of <i>Shewanella fidelis</i> 3313 motility and biofilm formation: implications for gut colonization dynamics in <i>Ciona robusta</i>, [eLife, 14:RP103107](https://doi.org/10.7554/eLife.103107.2)
 
 ### 2024
