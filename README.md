@@ -1,4 +1,4 @@
-# The microbial ecology lab
+# Landscape of Interacting Microbes - LIM lab
 **Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ![Lab Pictures](Pics/LabPics.jpg)
