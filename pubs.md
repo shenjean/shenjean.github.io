@@ -16,7 +16,7 @@ Mentee(s) highlighted in **bold** Mentee(s) highlighted in **bold** (* - corresp
 ### 2026
 - <u>*Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
 [Journal of Eukaryotic Microbiology 73(2): e70065](https://doi.org/10.1111/jeu.70065)
-- Chin, D., Campbell, B., Petersen, J., <u>*Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2026) The chromosomal genome sequence of the buttercup lucine, <i>Anodontia alba</i> Link, 1807 (Lucinida: Lucinidae) and its associated microbial metagenome sequences. [Wellcome Open Research, 11:131](https://wellcomeopenresearch.org/articles/11-131)
+- Chin, D., Campbell, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2026) The chromosomal genome sequence of the buttercup lucine, <i>Anodontia alba</i> Link, 1807 (Lucinida: Lucinidae) and its associated microbial metagenome sequences. [Wellcome Open Research, 11:131](https://wellcomeopenresearch.org/articles/11-131)
  
 ### 2025
 - <u>*Lim, S.J.</u>, Natarajan O., **Keller J.**, Dishaw, L.J., Furman, B.T., Breitbart, M. (2025) Draft genome sequence of <i>Gracilimonas</i> sp. strain BCB1 isolated from the gill tissue of the lucinid bivalve <i>Stewartia floridana</i> in Pinellas County, Florida, USA. [Microbiol. Resour. Announc. 0:e00595-25](https://doi.org/10.1128/mra.00595-25)
