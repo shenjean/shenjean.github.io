@@ -1,4 +1,4 @@
-# The microbial ecology lab - News
+# Landscape of Interacting Microbes - LIM lab - News
 **Shen Jean Lim | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ## In the news
