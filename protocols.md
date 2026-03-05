@@ -12,7 +12,7 @@
 #### PCR
 - [Colony PCR/16S Full-length 27F/1492R ](Protocols/colonyPCR.md)
 - [16S V4 515F/806R](Protocols/16SV4.md)
-- 18S V4 TAReuk454FWD1/TAReuk454REV3.1
+- [18S V4 TAReuk454FWD1/TAReuk454REV3.1](Protocols/18SV4.md)
 - [ITS 3F/4R](Protocols/ITS.md)
 
 ### Bioinformatics tutorials
