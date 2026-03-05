@@ -4,7 +4,7 @@
 ### Lab protocols
 
 #### Making media and buffers
-- SB buffer for gel electrophoresis
+- [SB buffer for gel electrophoresis](Protocols/gel.md)
 
 #### DNA/RNA extraction
 - [Extraction of high molecular weight DNA from bacterial cultures](Protocols/HighMW.md)
