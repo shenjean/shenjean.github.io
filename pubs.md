@@ -14,6 +14,7 @@ Mentee(s) highlighted in **bold** (* - corresponding author)
 Mentee(s) highlighted in **bold** Mentee(s) highlighted in **bold** (* - corresponding author)
 
 ### 2026
+- González-Mercado, V. J., <u>*Lim, S.J.</u>, Kumar Singh, P., Sales-Martinez, S., Fernandez-Cajavilca, M., Marrero, L. M., … D’Eramo Melkus, G. (2026). Dietary Quality and Microbiome Profiles among Rectal Cancer Patients: A Cross-Sectional Pilot Study. [Puerto Rico Health Sciences Journal, 45(1), 3–10](https://prhsj.rcm.upr.edu/index.php/prhsj/article/view/3513)
 - <u>*Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
 [Journal of Eukaryotic Microbiology 73(2): e70065](https://doi.org/10.1111/jeu.70065)
 - Chin, D., Campbell, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2026) The chromosomal genome sequence of the buttercup lucine, <i>Anodontia alba</i> Link, 1807 (Lucinida: Lucinidae) and its associated microbial metagenome sequences. [Wellcome Open Research, 11:131](https://wellcomeopenresearch.org/articles/11-131)
