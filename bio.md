@@ -1,4 +1,4 @@
-# Landscape of Interacting Microbes - Shen Jean Lim
+# Landscape of Interacting Microbes - Lab Members
 **LIM lab | [Home](https://shenjean.github.io) | [People](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ## Shen Jean Lim, Ph.D., Assistant Professor
