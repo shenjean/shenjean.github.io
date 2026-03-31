@@ -10,20 +10,20 @@
 >When I'm not in the lab, I enjoy being outdoors. I have been swimming, biking, and running in Florida and participated in local triathlon, half marathon, and other events. I also enjoy hiking and scuba diving. 
 
 #### Education
-2018 | Ph.D in Microbiology,  Clemson University ([Dissertation](https://open.clemson.edu/all_dissertations/2566/)) 
+2018 | Ph.D in Microbiology,  Clemson University ([Dissertation](https://open.clemson.edu/all_dissertations/2566/)) |
 
-2012 | M.Sc. in Biochemistry,  National University of Singapore ([Dissertation](https://scholarbank.nus.edu.sg/handle/10635/30289)) 
+2012 | M.Sc. in Biochemistry,  National University of Singapore ([Dissertation](https://scholarbank.nus.edu.sg/handle/10635/30289)) |
 
-2008 | B.Sc. (Hons) in Life Sciences - Molecular Cell Biology,  National University of Singapore 
+2008 | B.Sc. (Hons) in Life Sciences - Molecular Cell Biology,  National University of Singapore |
 
 #### Professional Experience 
-2026 - present | Assistant Professor, Department of Biological Sciences, Florida International University
+2026 - present | Assistant Professor, Department of Biological Sciences, Florida International University | 
 
-2022-2025 | Scientific Researcher, College of Marine Science, University of South Florida
+2022-2025 | Scientific Researcher, College of Marine Science, University of South Florida | 
 
-2020-2022	|	Postdoctoral Associate, Cooperative Institute for Marine and Atmospheric Studies, University of Miami
+2020-2022	|	Postdoctoral Associate, Cooperative Institute for Marine and Atmospheric Studies, University of Miami | 
 
-2019-2020	|	Postdoctoral Scholar, College of Nursing, University of South Florida
+2019-2020	|	Postdoctoral Scholar, College of Nursing, University of South Florida | 
 
 2019 | Postdoctoral Scholar, Biological Sciences Department, Vanderbilt University
 
@@ -40,22 +40,22 @@ Currently, I am working with Dr. Shen Jean Lim at FIU, focusing on the microbial
 > Outside of research, I enjoy long walks, gardening, and browsing old bookshops in search of hidden gems. 
 
 #### Education
-2025 | Ph.D. in Microbiology, Clemson University
+2025 | Ph.D. in Microbiology, Clemson University |
 
-2013 | M.S. in Microbiology, Jahangirnagar University, Bangladesh
+2013 | M.S. in Microbiology, Jahangirnagar University, Bangladesh | 
 
-2011 | B.Sc. (Honors) in Microbiology, Jahangirnagar University, Bangladesh
+2011 | B.Sc. (Honors) in Microbiology, Jahangirnagar University, Bangladesh |
 
 #### Professional Experience 
-2025-2026 | Research Assistant (Voluntary), Clemson University
+2025-2026 | Research Assistant (Voluntary), Clemson University |
 
-2018-2025 | Graduate Teaching Assistant, Department of Biological Sciences, Clemson University
+2018-2025 | Graduate Teaching Assistant, Department of Biological Sciences, Clemson University |
 
-2018 | Senior Research Officer, Environmental Microbiology Laboratory, icddr,b
+2018 | Senior Research Officer, Environmental Microbiology Laboratory, icddr,b |
 
-2014 – 2018 | Research Officer, Environmental Microbiology Laboratory, icddr,b
+2014 – 2018 | Research Officer, Environmental Microbiology Laboratory, icddr,b |
 
-2013 – 2014 | Research Officer, Center for Communicable Diseases, icddr,b
+2013 – 2014 | Research Officer, Center for Communicable Diseases, icddr,b |
 
 #### Teaching
 Courses taught: General Microbiology Laboratory; Industrial Microbiology Laboratory; Practical Bioinformatics for Microbiologists
