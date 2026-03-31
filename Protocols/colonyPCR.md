@@ -1,5 +1,5 @@
 # Landscape of Interacting Microbes - PCR Protocols 
-**LIM lab | [Home](https://shenjean.github.io) | [Biography](../bio.md) | [Publications](../pubs.md) | [News](../news.md) | [Lab Manual](../lab.md) | [Contact](../contact.md) | [Protocols](../protocols.md)**
+**LIM lab | [Home](https://shenjean.github.io) | [People](../bio.md) | [Publications](../pubs.md) | [News](../news.md) | [Lab Manual](../lab.md) | [Contact](../contact.md) | [Protocols](../protocols.md)**
 
 ## Colony PCR (27F/1492R) of the prokaryotic 16S rRNA gene
 
