@@ -1,17 +1,8 @@
 # Landscape of Interacting Microbes - Publications
-**LIM lab | [Home](https://shenjean.github.io) | [Biography](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
-
-
-## 📚 Book Chapters
-Mentee(s) highlighted in **bold** (* - corresponding author)
-    
-- <u>*Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 240-252](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
-- <u>*Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 531-543](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
-- <u>Lim, S.J.</u>, Khan, A.M., De Silva, M., Lim, K.S., Hu, Y., Tan, C.H. & Tan, T.W. (2011) Integration of e-learning tools with the problem-based learning approach to enhance teaching and learning in undergraduate bioinformatics modules. In Technology in Higher Education: The State of the Art [E-Publication Volume], p.63-79.
-- Tong, J.C. & <u>Lim, S.J.</u> (2010) Computational epigenetics. In [Encyclopedia of Molecular Cell Biology and Molecular Medicine, 3rd ed., Meyers, Bob. Wiley.](https://doi.org/10.1002/3527600906.mcb.201100012)
+**LIM lab | [Home](https://shenjean.github.io) | [People](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ## 📰 Refereed Journal Articles
-Mentee(s) highlighted in **bold** Mentee(s) highlighted in **bold** (* - corresponding author)
+Mentee(s) highlighted in **bold** (* - corresponding author)
 
 ### 2026
 - González-Mercado, V. J., <u>Lim, S.J.</u>, Kumar Singh, P., Sales-Martinez, S., Fernandez-Cajavilca, M., Marrero, L. M., … D’Eramo Melkus, G. (2026). Dietary Quality and Microbiome Profiles among Rectal Cancer Patients: A Cross-Sectional Pilot Study. [Puerto Rico Health Sciences Journal, 45(1), 3–10](https://prhsj.rcm.upr.edu/index.php/prhsj/article/view/3513)
@@ -73,5 +64,13 @@ https://doi.org/10.1128/mra.00594-25)
 - Wee, L.J., <u>Lim, S.J.</u>, Ng, L.F. & Tong, J.C. (2012) Immunoinformatics: how in silico methods are re-shaping the investigation of peptide immune specificity. [Front Biosci (Elite Ed), 4:311-9](https://doi.org/10.2741/e378)
 - <u>Lim, S.J.</u>, Tan, T.W. & Tong, J.C. (2010) Computational epigenetics: the new scientific paradigm. [Bioinformation, 4(7): 331 337](https://doi.org/10.6026/97320630004331) 
 - Song, C.M., <u>Lim, S.J.</u> & Tong, J.C. (2009) Recent advances in computer-aided drug design. [Briefings in Bioinformatics, 10(5): 579 91](https://doi.org/10.1093/bib/bbp023) 
-- Tong, J.C., <u>Lim, S.J.</u> Muh, H.C., Chew, F.T. & Tammi, M.T. (2009) Allergen Atlas: a comprehensive knowledge center and analysis resource for allergen information. [Bioinformatics, 25(7): 979 80](https://doi.org/10.1093/bioinformatics/btp077) 
+- Tong, J.C., <u>Lim, S.J.</u> Muh, H.C., Chew, F.T. & Tammi, M.T. (2009) Allergen Atlas: a comprehensive knowledge center and analysis resource for allergen information. [Bioinformatics, 25(7): 979 80](https://doi.org/10.1093/bioinformatics/btp077)
+
+## 📚 Book Chapters
+Mentee(s) highlighted in **bold** (* - corresponding author)
+    
+- <u>*Lim, S.J.</u> & **Young, M.N.** (2024) Genome annotation: perspective from bacterial genomes. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 240-252](https://doi.org/10.1016/B978-0-323-95502-7.00256-6)
+- <u>*Lim, S.J.</u> (2024) Mapping the environmental microbiome. In [Encyclopedia of Bioinformatics and Computational Biology (Second Edition), 6: 531-543](https://doi.org/10.1016/B978-0-323-95502-7.00242-6)
+- <u>Lim, S.J.</u>, Khan, A.M., De Silva, M., Lim, K.S., Hu, Y., Tan, C.H. & Tan, T.W. (2011) Integration of e-learning tools with the problem-based learning approach to enhance teaching and learning in undergraduate bioinformatics modules. In Technology in Higher Education: The State of the Art [E-Publication Volume], p.63-79.
+- Tong, J.C. & <u>Lim, S.J.</u> (2010) Computational epigenetics. In [Encyclopedia of Molecular Cell Biology and Molecular Medicine, 3rd ed., Meyers, Bob. Wiley.](https://doi.org/10.1002/3527600906.mcb.201100012)
 
