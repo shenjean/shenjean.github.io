@@ -5,7 +5,8 @@
 Mentee(s) highlighted in **bold** (* - corresponding author)
 
 ### 2026
-- González-Mercado, V. J., <u>Lim, S.J.</u>, Kumar Singh, P., Sales-Martinez, S., Fernandez-Cajavilca, M., Marrero, L. M., … D’Eramo Melkus, G. (2026). Dietary Quality and Microbiome Profiles among Rectal Cancer Patients: A Cross-Sectional Pilot Study. [Puerto Rico Health Sciences Journal, 45(1), 3–10](https://prhsj.rcm.upr.edu/index.php/prhsj/article/view/3513)
+- <u>*Lim, S.J.</u>, Thompson, L.R., Goodwin K. (2026). Metagenomic analysis of water column samples collected from Green Canyon 233 prior to the Deepwater Horizon incident. [Appl. Environ. Microbiol. 0:e00799-26](https://doi.org/10.1128/aem.00799-26)
+- González-Mercado, V.J., <u>Lim, S.J.</u>, Kumar Singh, P., Sales-Martinez, S., Fernandez-Cajavilca, M., Marrero, L. M., … D’Eramo Melkus, G. (2026). Dietary Quality and Microbiome Profiles among Rectal Cancer Patients: A Cross-Sectional Pilot Study. [Puerto Rico Health Sciences Journal, 45(1), 3–10](https://prhsj.rcm.upr.edu/index.php/prhsj/article/view/3513)
 - <u>*Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
 [Journal of Eukaryotic Microbiology 73(2): e70065](https://doi.org/10.1111/jeu.70065)
 - Chin, D., Campbell, B., Petersen, J., <u>Lim, S.J.</u> … Aquatic Symbiosis Genomics Project Leadership (2026) The chromosomal genome sequence of the buttercup lucine, <i>Anodontia alba</i> Link, 1807 (Lucinida: Lucinidae) and its associated microbial metagenome sequences. [Wellcome Open Research, 11:131](https://wellcomeopenresearch.org/articles/11-131)
@@ -31,7 +32,7 @@ https://doi.org/10.1128/mra.00594-25)
 - Gonzalez-Mercado, V.J., <u>Lim, S.J.</u> & Aouizerat, B. (2023) Insights from bacterial 16S rRNA gene into bacterial genera and predicted metabolic pathways associated with stool consistency in rectal cancer patients: a proof of concept, [Biological Research for Nursing, 25(3):491-500](https://doi.org/10.1177/10998004231159623)
 - <u>Lim, S.J.</u>, Jithpratuck, W., Wasylik, K., Sriaroon, P. & Dishaw, L.J. (2023) Associations of microbial diversity with age and other clinical variables among pediatric chronic rhinosinusitis (CRS) patients, [Microorganisms, 11(2), 422](https://doi.org/10.3390/microorganisms11020422)
 - <u>*Lim, S.J.</u>, Thompson, L.R. & Goodwin, K.D. (2023) Genetic features of the marine polychaete <i>Sirsoe methanicola</i> from metagenomic data, [Frontiers in Marine Science, 9:1067482](https://doi.org/10.3389/fmars.2022.1067482) 
-- <u>Lim, S.J.</u>, Thompson, L.R., Young, C.M., Gaasterland & Goodwin, K.D. (2022) Dominance of <i>Sulfurospirillum</i> in metagenomes associated with the methane ice worm (<i>Sirsoe methanicola</i>), [Applied and Environmental Microbiology, 88(15): e0029022](https://doi.org/10.1128/aem.00290-22) (spotlight selection)
+- <u>Lim, S.J.</u>, Thompson, L.R., Young, C.M., Gaasterland & Goodwin, K.D. (2022) Dominance of <i>Sulfurospirillum</i> in metagenomes associated with the methane ice worm (<i>Sirsoe methanicola</i>), [Appl. Environ. Microbiol., 88(15): e0029022](https://doi.org/10.1128/aem.00290-22) (spotlight selection)
 
 ### 2022
 -	Thompson, L.R., Anderson, S.R., DenUyl, P.A., Patin, N.V., <u>Lim, S.J.</u>, Sanderson, G., Goodwin, K.D. (2022) Tourmaline: a containerized workflow for rapid and iterable amplicon sequence analysis using QIIME 2 and Snakemake, [GigaScience, 11: giac066](https://doi.org/10.1093/gigascience/giac066)
