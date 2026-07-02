@@ -22,7 +22,7 @@
 - 2019: Postdoctoral Scholar, Biological Sciences Department, Vanderbilt University
 
 #### Teaching
-Fall 2026: Microbial Ecology 
+Fall 2026: MCB4603/MCB5605 | Microbial Ecology 
 
 ## Mir Alvee Ahmed, Ph.D., Postdoctoral Associate
 
