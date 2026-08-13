@@ -5,6 +5,8 @@
 Mentee(s) highlighted in **bold** (* - corresponding author)
 
 ### 2026
+- **Keller, J.T.**, <u>Lim, S.J.</u>, Natarajan, O., Cropper, N., Dishaw L.J., Breitbart, M. (2025) Draft genome sequence of *Dermacoccus nishinomiyaensis* Y5. [microPublication Biology, doi:10.17912/micropub.biology.002155](
+https://doi.org/10.17912/micropub.biology.002155)
 - <u>*Lim, S.J.</u>, Thompson, L.R., Goodwin K. (2026). Metagenomic analysis of water column samples collected from Green Canyon 233 prior to the Deepwater Horizon incident. [Appl. Environ. Microbiol. 0:e00799-26](https://doi.org/10.1128/aem.00799-26)
 - González-Mercado, V.J., <u>Lim, S.J.</u>, Kumar Singh, P., Sales-Martinez, S., Fernandez-Cajavilca, M., Marrero, L. M., … D’Eramo Melkus, G. (2026). Dietary Quality and Microbiome Profiles among Rectal Cancer Patients: A Cross-Sectional Pilot Study. [Puerto Rico Health Sciences Journal, 45(1), 3–10](https://prhsj.rcm.upr.edu/index.php/prhsj/article/view/3513)
 - <u>*Lim, S.J.</u> & Breitbart, M. (2026) Genetic features of the scuticociliate pathogen <i>Philaster</i> sp. isolate FWC2 that causes sea urchin mass mortality.
