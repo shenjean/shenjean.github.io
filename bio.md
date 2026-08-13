@@ -1,7 +1,16 @@
 # Landscape of Interacting Microbes - Lab Members
 **LIM lab | [Home](https://shenjean.github.io) | [People](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
-## Shen Jean Lim, Ph.D., Assistant Professor
+| Current lab members | Role |
+| ------------- | ------------- |
+| Dr. Shen Jean Lim | Assistant professor and lab PI |
+| Dr. Mir Alvee Ahmed | Postdoctoral associate |
+| Shira Jaye Anteby-Maleh | Research assistant |
+| Israt Sultana Isha | Graduate student |
+| Thao Phuong Tran | Undergraduate student | 
+| Alison Coykendall | REU student (Summer 2026) | 
+
+### Shen Jean Lim, Ph.D., Assistant Professor
 
 ![Jean](Pics/Jean_Indoor.jpg)
 
@@ -24,7 +33,7 @@
 #### Teaching
 Fall 2026: MCB4603/MCB5605 | Microbial Ecology 
 
-## Mir Alvee Ahmed, Ph.D., Postdoctoral Associate
+### Mir Alvee Ahmed, Ph.D., Postdoctoral Associate
 
 ![People](Pics/Alvee.jpeg) 
 > I am interested in how microbial communities shape and respond to marine and estuarine environments. My work focuses on understanding microbial composition and interactions within ecosystems, as well as the environmental drivers that influence their activity and growth, with broader implications for ecosystem function and human health. I earned my Ph.D. in Microbiology from Clemson University, where, under the supervision of Dr. Barbara J. Campbell, I studied microbial ecology in the Chesapeake and Delaware Bays using genome-resolved metagenomics and metatranscriptomics.
