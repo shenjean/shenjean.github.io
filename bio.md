@@ -1,16 +1,22 @@
 # Landscape of Interacting Microbes - Lab Members
 **LIM lab | [Home](https://shenjean.github.io) | [People](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
-| Current lab members | Role |
+## Current Lab Members
+| Name | Role |
 | ------------- | ------------- |
 | Dr. Shen Jean Lim | Assistant professor and lab PI |
-| Dr. Mir Alvee Ahmed | Postdoctoral associate |
 | Shira Jaye Anteby-Maleh | Research assistant |
 | Israt Sultana Isha | Graduate student |
 | Thao Phuong Tran | Undergraduate student | 
-| Alison Coykendall | REU student (Summer 2026) | 
 
-### Shen Jean Lim, Ph.D., Assistant Professor
+## Lab Alumni
+| Name | Role |
+| ------------- | ------------- |
+| Dr. Mir Alvee Ahmed (2026) | Now visiting faculty at University of Pittsburg at Bradford |
+| Alison Coykendall (2026) | REU student from Fort Hays State University | 
+
+
+## Shen Jean Lim, Ph.D., Assistant Professor
 
 ![Jean](Pics/Jean_Indoor.jpg)
 
@@ -33,28 +39,7 @@
 #### Teaching
 Fall 2026: MCB4603/MCB5605 | Microbial Ecology 
 
-### Mir Alvee Ahmed, Ph.D., Postdoctoral Associate
 
-![People](Pics/Alvee.jpeg) 
-> I am interested in how microbial communities shape and respond to marine and estuarine environments. My work focuses on understanding microbial composition and interactions within ecosystems, as well as the environmental drivers that influence their activity and growth, with broader implications for ecosystem function and human health. I earned my Ph.D. in Microbiology from Clemson University, where, under the supervision of Dr. Barbara J. Campbell, I studied microbial ecology in the Chesapeake and Delaware Bays using genome-resolved metagenomics and metatranscriptomics.
-Currently, I am working with Dr. Shen Jean Lim at FIU, focusing on the microbial ecology of seagrass- and clam-associated communities. This work includes field sampling in coastal areas and the Florida Keys, along with controlled aquarium experiments to investigate microbial activities.
-
-> Outside of research, I enjoy long walks, gardening, and browsing old bookshops in search of hidden gems. 
-
-#### Education
-- 2025: Ph.D. in Microbiology, Clemson University
-- 2013: M.S. in Microbiology, Jahangirnagar University, Bangladesh
-- 2011: B.Sc. (Honors) in Microbiology, Jahangirnagar University, Bangladesh
-
-#### Professional Experience 
-- 2025-2026: Research Assistant (Voluntary), Clemson University
-- 2018-2025: Graduate Teaching Assistant, Department of Biological Sciences, Clemson University
-- 2018: Senior Research Officer, Environmental Microbiology Laboratory, icddr,b
-- 2014 – 2018: Research Officer, Environmental Microbiology Laboratory, icddr,b
-- 2013 – 2014: Research Officer, Center for Communicable Diseases, icddr,b 
-
-#### Teaching
-Courses taught: General Microbiology Laboratory; Industrial Microbiology Laboratory; Practical Bioinformatics for Microbiologists
 
 
 
