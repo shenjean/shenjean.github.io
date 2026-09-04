@@ -8,6 +8,7 @@
 | Shira Jaye Anteby-Maleh | Research assistant |
 | Israt Sultana Isha | Graduate student |
 | Thao Phuong Tran | Undergraduate student | 
+| Christina Horvath | Undergraduate student |
 
 ## Lab Alumni
 | Name | Role |
