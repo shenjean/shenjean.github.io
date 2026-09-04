@@ -2,19 +2,23 @@
 **LIM lab | [Home](https://shenjean.github.io) | [People](bio.md) | [Publications](pubs.md) | [News](news.md) | [Lab Manual](lab.md) | [Contact](contact.md) | [Protocols](protocols.md)**
 
 ## Current Lab Members
+
 | Name | Role |
-| ------------- | ------------- |
+| ---- | ---- |
 | Dr. Shen Jean Lim | Assistant professor and lab PI |
 | Shira Jaye Anteby-Maleh | Research assistant |
 | Israt Sultana Isha | Graduate student |
 | Thao Phuong Tran | Undergraduate student | 
 | Christina Horvath | Undergraduate student |
 
+
 ## Lab Alumni
+
 | Name | Role |
-| ------------- | ------------- |
+| ---- | ---- |
 | Dr. Mir Alvee Ahmed (2026) | Now visiting faculty at University of Pittsburg at Bradford |
 | Alison Coykendall (2026) | REU student from Fort Hays State University | 
+
 
 
 ## Shen Jean Lim, Ph.D., Assistant Professor
