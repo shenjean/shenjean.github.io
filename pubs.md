@@ -5,6 +5,7 @@
 Mentee(s) highlighted in **bold** (* - corresponding author)
 
 ### 2026
+- <u>Lim, S.J.</u>,Natarajan, O., Petersen, J. <i>et al.</I> (2026) The chromosomal genome sequence of the Florida Lucine, <i>Stewartia floridana</i> (Conrad, 1833) (Lucinida: Lucinidae) and its associated microbial metagenome sequences [Wellcome Open Research, 11:554](https://doi.org/10.12688/wellcomeopenres.27482.1)
 - **Keller, J.T.**, <u>Lim, S.J.</u>, Natarajan, O., Cropper, N., Dishaw L.J., Breitbart, M. (2025) Draft genome sequence of *Dermacoccus nishinomiyaensis* Y5. [microPublication Biology, doi:10.17912/micropub.biology.002155](
 https://doi.org/10.17912/micropub.biology.002155)
 - <u>*Lim, S.J.</u>, Thompson, L.R., Goodwin K. (2026). Metagenomic analysis of water column samples collected from Green Canyon 233 prior to the Deepwater Horizon incident. [Appl. Environ. Microbiol. 0:e00799-26](https://doi.org/10.1128/aem.00799-26)
