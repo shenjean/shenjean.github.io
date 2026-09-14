@@ -44,9 +44,14 @@
 #### Teaching
 Fall 2026: MCB4603/MCB5605 | Microbial Ecology 
 
+## Shira Jaye Anteby-Maleh, M.S., Research Assistant
 
+![Shira](Pics/Shira.jpg)
 
+>Shira is a Research Assistant in the Microbial Ecology lab researching bacterial diversity in seagrass, sediments, Lucinidae bivalves, and various environmental samples on the Atlantic and Gulf Coasts of Florida. Techniques include DNA extraction, 16S rRNA gene and metatranscriptomic sequencing, and translational analysis in order to study the effects of lucinid density and transplantation, microbial symbionts, seagrass biomass, and nutrient cycling on seagrass-microorganism co-restoration. Shira has her MS in Biological Sciences from Nova Southeastern University Oceanographic Center in Dania Beach and her BA in Biology from Hofstra Univesity in Hempstead, NY. Shira is also an avid scuba diver and has her Advanced Open Water, Nitrox, and Rescue Diver certifications, and is working towards her Scientific Diver in the future. 
 
+## Israt Sultana Isha, PhD student
 
+![Isha](Pics/Isha.jpg)
 
 
