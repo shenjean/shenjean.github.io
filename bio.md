@@ -8,9 +8,7 @@
 | Dr. Shen Jean Lim | Assistant professor and lab PI |
 | Shira Jaye Anteby-Maleh | Research assistant |
 | Israt Sultana Isha | Graduate student |
-| Thao Phuong Tran | Undergraduate student | 
-| Christina Horvath | Undergraduate student |
-
+| Thao Phuong Tran | Undergraduate research assistant | 
 
 ## Lab Alumni
 
@@ -18,7 +16,6 @@
 | ---- | ---- |
 | Dr. Mir Alvee Ahmed (2026) | Now visiting faculty at University of Pittsburg at Bradford |
 | Alison Coykendall (2026) | REU student from Fort Hays State University | 
-
 
 
 ## Shen Jean Lim, Ph.D., Assistant Professor
@@ -54,4 +51,18 @@ Fall 2026: MCB4603/MCB5605 | Microbial Ecology
 
 ![Isha](Pics/Isha.jpg)
 
+>I grew up along the coast of Chittagong, Bangladesh, so the ocean was never just something I studied in a textbook-it was always part of the world around me. That early connection eventually turned into a passion and I went on to complete both my B.Sc. and M.S. in Oceanography at the University of Chittagong, Bangladesh.
 
+> My research experiences have taken me into the field to collect seawater, sediment, seaweed, and bivalve samples, as well as into data analysis and laboratory work. I have also explored marine science through workshops in benthic imagery, BRUV sampling, data science and machine learning with Python. These experiences helped me appreciate how field observations, data and biology come together to tell the story of an ecosystem.
+
+>I’m particularly interested in lucinid clams and their fascinating microbial partnerships, seagrass-microbiome interactions, blue carbon, and how environmental stressors can change microbial communities and ecosystem health.
+
+> One of my favorite things about the ocean is that there is always a “wow” moment-whether it’s discovering unexpected organisms in a sample, seeing patterns emerge from field data, or realizing that a tiny microbe may be doing something incredibly important for its host and the surrounding environment. 
+
+> Outside of research, I enjoy learning new things, dancing, meeting people from different backgrounds, and exploring new places. I have also been involved in science and community outreach through organizations including UNICEF and the SDG Youth Forum. 
+
+## Thao Phuong Tran, undergraduate research assistant
+
+![Thao](Pics/Thao.png)
+
+>I am an undergraduate student at FIU on the pre-nursing track and will be starting the FIU Nursing Program in Spring 2027. I enjoy working in the lab and learning new techniques, especially skills that can connect to and support my future journey in healthcare. I have experience with techniques such as DNA extraction and look forward to gaining more hands-on research experience. Outside of school and the lab, I enjoy playing piano and challenging myself to cook different Asian dishes in my free time.
