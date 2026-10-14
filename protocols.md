@@ -9,6 +9,7 @@
 - [SB buffer for gel electrophoresis](Protocols/gel.md)
 
 #### DNA/RNA extraction
+- [Extraction of DNA from environmental samples using ZymoBIOMICS™ DNA Miniprep Kit](Protocols/ZymoDNA.md)
 - [Extraction of high molecular weight DNA from bacterial cultures](Protocols/HighMW.md)
   
 #### PCR
