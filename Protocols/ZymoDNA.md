@@ -1,7 +1,7 @@
 # Landscape of Interacting Microbes - DNA Extraction Protocols
 **LIM lab | [Home](https://shenjean.github.io) | [People](../bio.md) | [Publications](../pubs.md) | [News](../news.md) | [Lab Manual](../lab.md) | [Contact](../contact.md) | [Protocols](../protocols.md)**
 
-## DNA extraction with ZymoBIOMICS™ DNA Miniprep Kit 
+## Extraction of DNA from environmental samples with ZymoBIOMICS™ DNA Miniprep Kit 
 Product info: https://www.zymoresearch.com/products/zymobiomics-dna-miniprep-kit
 >Protocol written by Shira Jaye Anteby-Maleh	
 
