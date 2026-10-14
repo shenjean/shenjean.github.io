@@ -12,6 +12,7 @@
 #### DNA/RNA extraction
 - [Extraction of DNA from environmental samples using ZymoBIOMICS™ DNA Miniprep Kit](Protocols/ZymoDNA.md)
 - [Extraction of high molecular weight DNA from bacterial cultures](Protocols/HighMW.md)
+- [DNA and RNA quantification with Qubit™ Flex](Protocols/Qubit.md)
   
 #### PCR
 - [Colony PCR/16S Full-length 27F/1492R ](Protocols/colonyPCR.md)
