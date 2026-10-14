@@ -43,7 +43,7 @@ Product info: https://www.zymoresearch.com/products/zymobiomics-dna-miniprep-kit
 17.	Pipette 700ul (using P1000) wash buffer 2 into the same Zymo-Spin™ IICR Column (white)
 18.	Microfuge at 10,000xg for 1 min
 19.	Discard flowthrough
-20.	Pipette 200ul (using p1000) wash buffer 2 into the same Zymo-Spin™ IICR Column (white)
+20.	Pipette 200ul (using P1000) wash buffer 2 into the same Zymo-Spin™ IICR Column (white)
 21.	Microfuge at 10,000g for 1 min
 22.	Discard flowthrough
 
@@ -57,6 +57,6 @@ Product info: https://www.zymoresearch.com/products/zymobiomics-dna-miniprep-kit
 30.	Microfuge tubes from step 27 at 8,000xg for 3 min
 31.	Discard HRC prep solution flowthrough
 32.	Place Zymo-Spin III HRC (white) filter into new 1.5ml DNA microfuge tubes with caps (these tubes will have the final DNA)
-33.	Pipette all 50ul (using p200) of the eluted DNA samples into the same Zymo-III white filters 
+33.	Pipette all 50ul (using P200) of the eluted DNA samples into the same Zymo-III white filters 
 34.	Microfuge tubes from steps 30-31 at 16,000g for 3 min
 35.	Cap tubes, label, and freeze at -20C
