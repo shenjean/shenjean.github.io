@@ -3,6 +3,8 @@
 
 ## In the news
 
+**2026**: A new study investigates oil-degrading microbes a year before Deepwater Horizon Oil Spill [(Read article)](https://www.aoml.noaa.gov/a-new-study-investigates-oil-degrading-microbes-a-year-before-deepwater-horizon-oil-spill/)
+
 **2025**: USF researchers among first to identify viruses linked to red tide, which could help predict future blooms [(Read article)](https://www.fox13news.com/news/usf-researchers-among-first-identify-viruses-linked-red-tide-which-could-help-predict-future-blooms)
 
 **2025**: For the first time, USF researchers identify viruses in red tide blooms [(Read article)](https://baynews9.com/fl/tampa/news/2025/03/23/red-tide-viruses-blooms)
