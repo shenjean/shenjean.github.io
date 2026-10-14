@@ -7,11 +7,11 @@
 The microbial ecology lab studies host-microbe-environment interactions in marine ecosystems and in humans. 
 We integrate field, laboratory, and ‘omics approaches to understand the interplay between microbes (bacteria, viruses, and fungi), host health, and environmental health. Volunteers, collaborators, and fellowship applications are welcome!
 
-## Currently funded project
+## Currently funded projects
 ![Summer 2026 Field Work](Pics/ClamProject.png) 
 
 #### Investigating the feasibility of co-restoration of seagrass and native clams in Florida (2026-2027)
 This project investigates the microbial diversity in Florida's seagrass habitats in association with lucinid bivalve (clam) abundance, beneficial bacteria (symbionts), nutrient composition, and seagrass health. Results will inform the development of a novel, scalable strategy and a best practices guide for seagrass-clam co-restoration.
 
-
-
+#### Biscayne Bay microbial diversity (2026-2027)
+This project investigates the microbial diversity in Biscayne Bay.
