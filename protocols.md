@@ -7,6 +7,7 @@
 
 #### Making media and buffers
 - [SB buffer for gel electrophoresis](Protocols/gel.md)
+- [Bacteria preservation in glycerol stocks](Protocols/Glycerol.md)
 
 #### DNA/RNA extraction
 - [Extraction of DNA from environmental samples using ZymoBIOMICS™ DNA Miniprep Kit](Protocols/ZymoDNA.md)
