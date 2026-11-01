@@ -9,6 +9,7 @@
 | Shira Jaye Anteby-Maleh | Research assistant |
 | Israt Sultana Isha | Graduate student |
 | Thao Phuong Tran | Undergraduate research assistant | 
+| Christina Horvarth | Volunteer | 
 
 ## Lab Alumni
 
@@ -40,6 +41,7 @@
 
 #### Teaching
 Fall 2026: MCB4603/MCB5605 | Microbial Ecology 
+Spring 2027: MCB6935 | Advanced Topics in Mirobiology
 
 ## Shira Jaye Anteby-Maleh, M.S., Research Assistant
 
@@ -66,3 +68,9 @@ Fall 2026: MCB4603/MCB5605 | Microbial Ecology
 ![Thao](Pics/Thao.png)
 
 >I am an undergraduate student at FIU on the pre-nursing track and will be starting the FIU Nursing Program in Spring 2027. I enjoy working in the lab and learning new techniques, especially skills that can connect to and support my future journey in healthcare. I have experience with techniques such as DNA extraction and look forward to gaining more hands-on research experience. Outside of school and the lab, I enjoy playing piano and challenging myself to cook different Asian dishes in my free time.
+
+## Christina Horvath, volunteer
+![Christina](Pics/Christina.jpg)
+
+>As a born and raised South Floridian, I have always had a passion for anything water-related. I am currently a rescue diver, with Nitrox and scientific diving under my belt. I have also conducted research in Florida and in the Amazon on various projects from Aquaponics, Fish Physiology to Species Diversity. I expect to graduate Spring 2027 with BS degrees in Marine Biology and Biology. In my free time, I enjoy playing board games with friends and going rock climbing
+
