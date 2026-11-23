@@ -69,6 +69,11 @@ Spring 2027: MCB6935 | Advanced Topics in Mirobiology
 
 >I am an undergraduate student at FIU on the pre-nursing track and will be starting the FIU Nursing Program in Spring 2027. I enjoy working in the lab and learning new techniques, especially skills that can connect to and support my future journey in healthcare. I have experience with techniques such as DNA extraction and look forward to gaining more hands-on research experience. Outside of school and the lab, I enjoy playing piano and challenging myself to cook different Asian dishes in my free time.
 
+## Eric Iosup, volunteer
+![Eric](Pics/Eric.png)
+
+>Hi everyone! Being part of the LIM lab at Biscayne Bay has strengthened my interests concerning the chemosymbiosis relationship between seagrass and lucinid clams along Florida's coastlines. A larger passion of mine includes seagrass ecology and molecular techniques. Working with the team has given me a better sense as to the commitment and professionalism everyone brings forth during collaboration and data analysis. Looking ahead, I am certain that I will continue to develop my skills both in the field and lab through ecological data and molecular approaches for the restoration of seagrass beds in various habitats which are stressed due to pollution and disturbance factors.
+
 ## Christina Horvath, volunteer
 ![Christina](Pics/Christina.jpg)
 
