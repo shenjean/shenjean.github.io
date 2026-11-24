@@ -9,6 +9,7 @@
 | Shira Jaye Anteby-Maleh | Research assistant |
 | Israt Sultana Isha | Graduate student |
 | Thao Phuong Tran | Undergraduate research assistant | 
+| Eric Iosup | Volunteer | 
 | Christina Horvarth | Volunteer | 
 
 ## Lab Alumni
